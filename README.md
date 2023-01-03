@@ -1,6 +1,6 @@
 <h4>
 O projeto tem como intuíto a emissão de um documento em PDF.
-Ele foi esenvolvido em node com nestJs, e para a geração dos PDFs a biblioteca PDFMake.
+Ele foi desenvolvido em node com nestJs, e para a geração dos PDFs a biblioteca PDFMake.
 </h4>
 
 <hr>
